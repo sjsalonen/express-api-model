@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "name": "JavaScript",
+        "proficiency": 8,
+        "related": [
+            "React",
+            "Node.js",
+            "TypeScript",
+            "Jasmine",
+            "Mocha",
+            "Express",
+            "NightmareJS",
+            "AngularJS",
+            "Backbone.js",
+            "jQuery"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Java",
+        "proficiency": 7,
+        "related": [
+            "Spring",
+            "Apache Tomcat",
+            "JUnit",
+            "Maven"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "PHP",
+        "proficiency": 5,
+        "related": []
+    },
+    {
+        "id": "4",
+        "name": "Ruby",
+        "proficiency": 5,
+        "related": [
+            "Ruby on Rails"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "CSS",
+        "proficiency": 7,
+        "related": [
+            "SASS",
+            "LESS"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "HTML",
+        "proficiency": 8,
+        "related": [
+            "HTML5",
+            "Mustache",
+            "EJS",
+            "JSP"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "SQL",
+        "proficiency": 7,
+        "related": [
+            "T-SQL",
+            "SQL Server",
+            "MySQL",
+            "PostgreSQL"
+        ]
+    }
+]
